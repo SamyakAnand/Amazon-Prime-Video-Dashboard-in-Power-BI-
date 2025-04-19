@@ -46,4 +46,3 @@ This project is licensed under the MIT License. Refer to the LICENSE file for de
 For inquiries, contact ER. SAMYAK ANAND at samganand@gmail.com  
 
 ---
-# Amazon-Prime-Video-Dashboard-in-Power-BI-
